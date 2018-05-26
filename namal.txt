@@ -1,0 +1,15 @@
+M,amir;09021323;se;3;amir2009@namal.edu.pk;678-909-6754;0345-034-5234
+Rashid,Ali;09021323;se;3;amir2009@namal.edu.pk;678-909-6754;0345-034-5234
+Muhammad,Sohail;09021323;se;3;amir2009@namal.edu.pk;678-909-6754;0345-034-5234
+Kahn,Ahmer;09032282;SE;2;aamer2009@namal.edu.pk;045-987-6234;0321-234-4884
+rana,aamer;09032282;SE;2;aamer2009@namal.edu.pk;045-987-6234;0321-234-4884
+Nisar,Mubashir;09032282;SE;2;aamer2009@namal.edu.pk;045-987-6234;0321-234-4884
+Faisal,Muhammad;09092232;cs;3;shoaib2009@namal.edu.pk;123-458-7562;0345-234-2330
+Rashid,Muhammad;09092232;cs;3;shoaib2009@namal.edu.pk;123-458-7562;0345-234-2330
+shoaib,sam;09092232;cs;3;shoaib2009@namal.edu.pk;123-458-7562;0345-234-2330
+Hassan,Khan;090233442;cs;2;rana2009@namal.edu.pk;112-233-0237;0313-231-3531
+Dani,Adnan;090233442;cs;2;rana2009@namal.edu.pk;112-233-0237;0313-231-3531
+rana,asad;090233442;cs;2;rana2009@namal.edu.pk;112-233-0237;0313-231-3531
+jabir.jabar,jabar;093234343;Ss;3;jabar2009@namal.edu.pk;344-559-0943;0321-032-1032
+Jani,Nadeem;093234343;Ss;3;jabar2009@namal.edu.pk;344-559-0943;0321-032-1032
+jabir.ali,Jummay.Khan;093234343;Ss;3;jabar2009@namal.edu.pk;344-559-0943;0321-032-1032
