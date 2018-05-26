@@ -3,6 +3,7 @@ Directory of Student through Hashing or Hash Table
 
 
 #Problem Statement
+
 Write a program (in the language of your choice) to implement a directory of a set of student
 records by using open addressing. Your program should take its input from a text file “namal.txt”,
 which is stored in the same folder as that of your .java file. The format of a line in the input file is:
